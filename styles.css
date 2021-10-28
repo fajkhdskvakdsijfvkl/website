@@ -38,10 +38,10 @@ p.separator {padding-top: 2%;}
 .sidebar1 {
     background-color: #11575e;
     position: fixed;
-    left: 50%;
-    top: 20%;
-    height: 50%;
-    width: 80px;
+    left: 0%;
+    top: 11%;
+    height: 80px;
+    width: 100%;
 
 }
 
@@ -108,6 +108,75 @@ p.separator {padding-top: 2%;}
     font-family: 'Oswald', sans-serif;
 }
 
+.homepagehoriz{
+    position: fixed;
+    text-align: center;
+    font-size: 50px;
+    left: 50%;
+    top: 11%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.allhoriz{
+    position: fixed;
+    text-align: center;
+    left: 43%;
+    font-size: 50px;
+    top: 11%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.bannedhoriz{
+    position: fixed;
+    text-align: center;
+    font-size: 50px;
+    left: 57%;
+    top: 11%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.twenteytwohoriz{
+    position: fixed;
+    text-align: center;
+    left: 36%;
+    font-size: 40px;
+    top: 11.5%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.twenteyonehoriz{
+    position: fixed;
+    text-align: center;
+    font-size: 40px;
+    left: 29%;
+    top: 11.5%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.twenteyhoriz{
+    position: fixed;
+    text-align: center;
+    font-size: 40px;
+    left: 71%;
+    top: 11.5%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
+
+.nineteenhoriz{
+    position: fixed;
+    text-align: center;
+    font-size: 40px;
+    left: 64%;
+    top: 11.5%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
 
 
 a:link {
