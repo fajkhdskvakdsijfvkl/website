@@ -9,12 +9,6 @@
 //     return `IE ${temp[1] || ''}`
 //   }
 
-//   if (match[1] === 'Chrome') {
-//     temp = userAgent.match(/\b(OPR|Edge)\/(\d+)/)
-
-//     if (temp !== null) {
-//       return temp.slice(1).join(' ').replace('OPR', 'Opera')
-//     }
 
 //     temp = userAgent.match(/\b(Edg)\/(\d+)/)
 
