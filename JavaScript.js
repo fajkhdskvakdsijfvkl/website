@@ -35,7 +35,7 @@
 // edge = browser.includes("Edge")
 // opera = browser.includes("Opera")
 
-var person = prompt("Please enter your name");
+var person = prompt("Please enter your password");
 
 if (person == null || person == "") {
   window.location.assign("https://youtu.be/dQw4w9WgXcQ");
