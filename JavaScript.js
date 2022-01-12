@@ -37,13 +37,13 @@
 
 var person = prompt("Please enter your password");
 let x = document.cookie; 
-if(x != "logged in")
+if(x != "logged")
 {
   if (person == null || person == "") {
     window.location.assign("https://youtu.be/dQw4w9WgXcQ");
   } else {
     alert( "Correct Password " + person + "");
-    document.cookie = "username=John Doe";
+    document.cookie = "username=logged";
   }
 
 }
