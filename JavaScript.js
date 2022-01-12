@@ -36,11 +36,20 @@
 // opera = browser.includes("Opera")
 
 var person = prompt("Please enter your password");
+let x = document.cookie; 
+if(x != "logged in")
+{
+  if (person == null || person == "") {
+    window.location.assign("https://youtu.be/dQw4w9WgXcQ");
+  } else {
+    alert( "Correct Password " + person + "");
+    document.cookie = "username=John Doe";
+  }
 
-if (person == null || person == "") {
-  window.location.assign("https://youtu.be/dQw4w9WgXcQ");
-} else {
-  alert( "Hello " + person + "");
+}
+else
+{
+  console.log("Logges in")
 }
 
 function stringToHash(string) {
