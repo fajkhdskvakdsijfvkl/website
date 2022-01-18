@@ -16,6 +16,14 @@ p{
     text-align: left;
     margin-left: 80px;
 } 
+p1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    margin-left: 80px;
+} 
+
 
 br
 {   content: "A";
