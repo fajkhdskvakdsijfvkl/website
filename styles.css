@@ -54,24 +54,6 @@ p.separator {padding-top: 2%;}
     font-family: 'Oswald', sans-serif;
 }
 
-/* .all{
-    position: relative;
-    text-align: center;
-    font-size: 50px;
-    top: 13%;
-    text-decoration: none;
-    font-family: 'Oswald', sans-serif;
-}
-
-.banned{
-    position: relative;
-    text-align: center;
-    font-size: 50px;
-    top: 16%;
-    text-decoration: none;
-    font-family: 'Oswald', sans-serif;
-} */
-
 .twenteytwo{
     position: relative;
     text-align: center;
@@ -200,12 +182,20 @@ a:active {
     text-decoration: none;
   }
 
+/* .all{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    top: 13%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+}
 
-
-
-
-
-
-
-
-
+.banned{
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    top: 16%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+} */
